@@ -10,8 +10,8 @@ langchain-community>=0.2.0
 tavily-python>=0.3.3
 
 # Web scraping
-beautifulsoup4>=4.12.3
-requests>=2.31.0
+beautifulsoup4>=4.12.3 
+requests>=2.31.0   # tool for web scrapping 
 lxml>=5.2.0
 
 # Async support (important for multi-agent systems)
